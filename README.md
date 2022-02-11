@@ -1,2 +1,1 @@
-# pokemon-api
-Projeto  usando a API Pokemon, com HTML, CSS, Javascript
+# Projeto usando a API Pokemon, com HTML, CSS, Javascript
